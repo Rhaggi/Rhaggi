@@ -8,7 +8,7 @@
              src="https://i.imgur.com/yRpa1dQ.png"/>
     </a>
 
-Me chamo Rosalina Teixeira Oliveira, tenho 23 anos e sou de São Paulo. Concluí o ensino técnico na ETEC em Desenvolvimento de sistemas e recentemente iniciei a graduação no curso de Análise e desenvolvimento de sistemas.
+Me chamo Rosalina Teixeira Oliveira Messias Gomes, tenho 24 anos e sou de São Paulo. Concluí o ensino técnico na ETEC em Desenvolvimento de sistemas e recentemente iniciei a graduação no curso de Análise e desenvolvimento de sistemas.
 
 <p align="center"> 
     <a href="https://github.com/Rhaggi?tab=repositories&sort=stargazers">
